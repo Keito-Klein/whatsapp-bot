@@ -26,4 +26,12 @@
 
 "homepage": "https://github.com/Keito-Klein/WhatsApp-Bot/readme.md",
 "license": "GPL",
-"dependencies": 
+"dependencies": {
+  "@adiwajshing/baileys": "^4.0.0",
+  "axios": "^0.21.0",
+  "node-fetch": "^2.6.1",
+  "needle": "^2.5.2",
+  "multistream": "^2.1.0",
+  "async": "^2.0.1",
+  "brainly-scraper": "^1.0.3",
+  "got": "^11.8.1",

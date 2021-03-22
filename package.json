@@ -1,0 +1,29 @@
+{
+  "name": "Net Bot",
+  "version": "1.0",
+  "description": "a Bot for WhatsApp",
+  "main": "index.js",
+  "derectories": {
+  "lib": "lib"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+    },
+  "keywords": [
+    "W"
+    ],
+  "author": "group members"
+  "repository": {
+  "type": "git"
+  "url": "git+https://github.com/Keito-Klein/WhatsApp-Bot.git"
+  },
+
+"bugs": {
+  "url":"https://github.com/Keito-Klein/WhatsApp-Bot/issues"
+},
+
+"homepage": "https://github.com/Keito-Klein/WhatsApp-Bot/readme.md"
+"license": "GPL"
+"dependencies": 

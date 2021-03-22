@@ -14,9 +14,9 @@
   "keywords": [
     "W"
     ],
-  "author": "group members"
+  "author": "group members",
   "repository": {
-  "type": "git"
+  "type": "git",
   "url": "git+https://github.com/Keito-Klein/WhatsApp-Bot.git"
   },
 
@@ -24,6 +24,6 @@
   "url":"https://github.com/Keito-Klein/WhatsApp-Bot/issues"
 },
 
-"homepage": "https://github.com/Keito-Klein/WhatsApp-Bot/readme.md"
-"license": "GPL"
+"homepage": "https://github.com/Keito-Klein/WhatsApp-Bot/readme.md",
+"license": "GPL",
 "dependencies": 
